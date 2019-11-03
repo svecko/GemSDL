@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\Miha's PC\source\repos\SDL\SDL\src\Game.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Miha's PC\source\repos\SDL\SDL\src\Game.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Miha's PC\source\repos\SDL\SDL\src\Game.cpp(80,23): warning C4018: '<': signed/unsigned mismatch
+  SDL.vcxproj -> C:\Users\Miha's PC\source\repos\SDL\bin\Win32\Debug\SDL.exe
